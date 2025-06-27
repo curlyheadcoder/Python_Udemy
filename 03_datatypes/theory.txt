@@ -1,0 +1,33 @@
+🧠 Data Types in Python 
+
+In Python, everything is an object — and every object has a data type. Data types define what kind of value something holds and what operations you can do with it.
+
+✅ Built-in Basic Data Types
+Type	        Example	             Use Case
+-------------------------------------------------------
+int	10,     |      -5	        |   Whole numbers
+-------------------------------------------------------
+float	    |   3.14, -2.0	    |  Decimal numbers
+-------------------------------------------------------
+bool	    |   True, False	    |  Logical values
+-------------------------------------------------------
+str		    |     "Hello"       |       Text data
+-------------------------------------------------------
+
+✅ Data Structures (Collections)
+Type	Example	Use                 Case
+----------------------------------------------------------------
+list	 | [1, 2, 3]	        | Ordered, changeable collection
+-----------------------------------------------------------------
+tuple	 | (1, 2, 3)	        | Ordered, unchangeable collection
+------------------------------------------------------------------
+set	     | {1, 2, 3}	        |      Unordered, no duplicates
+------------------------------------------------------------------
+dict	 |  {"a": 1, "b": 2}	|      Key-value pairs
+------------------------------------------------------------------
+
+📌 Notes:
+Use type(value) to check a variable's type.
+
+Python is dynamically typed — you don't need to declare types manually.
+
