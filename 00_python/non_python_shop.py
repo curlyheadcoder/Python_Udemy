@@ -12,4 +12,4 @@ class Chai:
 
 myChai = Chai(sweetness=3, milk_level=2)
 
-myChai.add_sugar(3)
+# myChai.add_sugar(3)
